@@ -6,7 +6,7 @@ I specialize in building scalable, reliable test automation frameworks and CI/CD
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 **Core Languages & Frameworks:**
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -29,7 +29,7 @@ I specialize in building scalable, reliable test automation frameworks and CI/CD
 
 ---
 
-### 🚀 Featured Automation Architectures
+### Featured Automation Architectures
 
 | Repository | Focus & Stack | Highlights |
 | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ I specialize in building scalable, reliable test automation frameworks and CI/CD
 
 ---
 
-### 📊 Engineering Philosophy
+### Engineering Philosophy
 
 - **Quality at the Source:** Testing earlier via API & contract tests before spinning up heavyweight UI layers.
 - **Flaky-Test Zero Tolerance:** Strict locators, dynamic wait management, and fully isolated test data.
@@ -47,7 +47,7 @@ I specialize in building scalable, reliable test automation frameworks and CI/CD
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffercastro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffercastro0219@gmail.com)
